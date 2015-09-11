@@ -42,7 +42,7 @@ public class Nefarious {
         String jafChoice = "What does Jafar choose to do?";
         
         System.out.println("Behold! The great champions have returned to the center of the city, \n
-            where their battle three ages earlier had left only a pile of mud.);
+            where their battle three ages earlier had left only a pile of mud."");
         System.out.println("Nefarian steps forward first.\n" + 
             nefChoice);
         

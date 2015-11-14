@@ -9,7 +9,6 @@ public class Nefar {
     String name;
     int health, attack;
     int maxHealth;
-    int maxAttack;
 
     /**
     *@param n: The name of this Nefar
